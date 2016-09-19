@@ -6,7 +6,7 @@ public class Problem1310 {
 
 	public static void main (String[] args) throws IOException {
 		
-		InputStreamReader ir = new InputStreamReader(System.in);
+	InputStreamReader ir = new InputStreamReader(System.in);
         BufferedReader in = new BufferedReader(ir);
 		
         int days;
